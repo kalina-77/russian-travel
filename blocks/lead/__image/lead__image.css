@@ -1,0 +1,8 @@
+.lead__image {
+  background-image: url(../../../images/kalegin-michail-179870-unsplash.jpg);
+  padding: 0;
+  margin: 64px auto 0;
+  outline: 1px solid red;
+  max-width: 984px;
+  min-height: 615px;
+}
