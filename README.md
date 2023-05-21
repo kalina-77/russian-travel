@@ -16,7 +16,7 @@
 
 ---
 
-Ссылка на сайт в веб-сервисе GitHub:
+Ссылка на сайт в веб-сервисе GitHub: https://kalina-77.github.io/russian-travel/
 
 ---
 
