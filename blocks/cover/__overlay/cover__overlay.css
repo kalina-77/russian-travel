@@ -1,6 +1,6 @@
 .cover__overlay {
   text-decoration: none;
-  background-image: url(../../../images/cover-background-1280.jpg);
+  background-image: url(../../../images/cover-background.jpg);
   background-size: 100% auto;
   background-repeat: no-repeat;
   background-position: center;
@@ -36,7 +36,6 @@
 
 @media screen and (max-width: 1024px) {
   .cover__overlay {
-    background-image: url(../../../images/cover-background-1024.jpg);
     min-height: 640px;
     max-width: 1024px;
   }
@@ -44,7 +43,6 @@
 
 @media screen and (max-width: 768px) {
   .cover__overlay {
-    background-image: url(../../../images/cover-background-768.jpg);
     min-height: 480px;
     max-width: 768px;
   }
@@ -52,7 +50,6 @@
 
 @media screen and (max-width: 320px) {
   .cover__overlay {
-    background-image: url(../../../images/cover-background-320.jpg);
     min-height: 200px;
     max-width: 320px;
   }

@@ -1,4 +1,6 @@
 .header__lang {
   display: flex;
-  align-items: center;
+  align-items: flex-end;
+  margin: 0 0 8px 0;
+  padding: 0;
 }

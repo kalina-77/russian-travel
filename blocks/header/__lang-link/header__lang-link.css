@@ -1,5 +1,5 @@
 .header__lang-link {
-  font-family: 'Inter', sans-serif;
+  font-family: 'Inter', Arial, sans-serif;
   color: #fff;
   font-size: 24px;
   line-height: 1.16;
@@ -10,13 +10,17 @@
 }
 
 .header__lang-link:last-child {
-  margin-right: 18px;
+  margin-right: 0;
+}
+
+.header__lang-link:hover {
+  opacity: 0.8;
+  transition: 0.5s linear;
 }
 
 @media screen and (max-width: 425px) {
   .header__lang-link {
     font-size: 18px;
     line-height: 1.11;
-    margin-right: 16px;
   }
 }

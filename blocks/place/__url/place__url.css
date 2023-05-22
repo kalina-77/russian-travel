@@ -1,11 +1,13 @@
-.place__website-url {
-  font-family: 'Inter', sans-serif;
+.place__url {
+  font-family: 'Inter', Arial, sans-serif;
   color: #aaa;
   font-size: 12px;
   line-height: 1;
   font-weight: 400;
   font-style: normal;
   max-width: 100%;
+  text-transform: uppercase;
   padding: 0;
+  margin: 0;
   letter-spacing: 2px;
 }
