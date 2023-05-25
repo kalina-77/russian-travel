@@ -1,8 +1,6 @@
 .header {
   display: flex;
   justify-content: space-between;
-  margin: 28px auto 0;
-  padding: 0;
   max-width: 1184px;
   width: calc(100% - 96px);
   box-sizing: border-box;
@@ -17,6 +15,5 @@
 @media screen and (max-width: 425px) {
   .header {
     width: calc(100% - 32px);
-    margin: 16px auto 0;
   }
 }
